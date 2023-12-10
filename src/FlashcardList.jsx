@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 import Flashcard from "./Flashcard"
 
 export default function FlashcardList({ flashcards }) {
@@ -9,3 +10,7 @@ export default function FlashcardList({ flashcards }) {
         </div>
     )
 }
+
+FlashcardList.propTypes = {
+    flashcards: PropTypes.array.isRequired
+};

@@ -1,9 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # flashcards
+
+React application as a personal project to learn Machine Learning concepts by creating and studying ML concepts via flashcards.
+
+For now the data is stored locally in the App component. 
+Enhancements will be made to store the data in a database and to add a backend to the application.

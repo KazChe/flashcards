@@ -101,7 +101,7 @@ const FLASHCARD_DATA = [
         tags: ['Machine Learning', 'exploratory data analysis']
     },
     {
-        id: 14,
+        id: 14.1,
         question: 'You are a machine learning specialist working for the social media software development division of your company. The social media features of your web applications allow users to post text messages and pictures about their experiences with your company’s products. You need to be able to block posts that contain inappropriate words quickly. You have defined a vocabulary of words deemed inappropriate for your site. Which of the following algorithms is best suited to your task?',
         answer: 'B. The Bernoulli Naive Bayes algorithm is used in document classification tasks where you wish to know whether a word from your vocabulary appears in your observed text or not. This is exactly what you are trying to accomplish. You need to know whether a word from your vocabulary of inappropriate words appears in the given post text or not.',
         options: ['A. Multinomial Naive Bayes', 'B. Bernouli Naive Bayes', 'C. Gaussian Naive Bayes', 'D. Ploychloric Naive Bayes'],
@@ -171,7 +171,7 @@ const FLASHCARD_DATA = [
         tags: ['Machine Learning', 'modeling']
     },
     {
-        id: 23,
+        id: 23.1,
         question: 'Fundamentally how many types data are there? Name them.',
         answer: '3 types <br/> Strucutured Data <br/> Unstructured Data <br/> Semi-structured data.',
         options: [],
@@ -188,6 +188,13 @@ const FLASHCARD_DATA = [
         id: 25,
         question: 'Provide exmaples of un-structured data.',
         answer: 'unstructured data is type of data that has no schema or well defined structural properties. <br/> Examples include images, videos, audio files, text docs or application log files',
+        options: [],
+        tags: ['Machine Learning', 'data collection', 'data concept', 'data migration' ]
+    },
+    {
+        id: 26,
+        question: '',
+        answer: '',
         options: [],
         tags: ['Machine Learning', 'data collection', 'data concept', 'data migration' ]
     },

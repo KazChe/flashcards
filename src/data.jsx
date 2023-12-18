@@ -193,10 +193,17 @@ const FLASHCARD_DATA = [
     },
     {
         id: 26,
-        question: '',
-        answer: '',
+        question: 'What is NOT stored in an AMI? mutiple choice A) Boot volume B) Data volumes C) AMI Permissions D) Block Device Mapping E) Instance settings F) Network Settings',
+        answer: 'E) Instance Settings F) Network Settings',
         options: [],
-        tags: ['Machine Learning', 'data collection', 'data concept', 'data migration' ]
+        tags: ['Solution Architect', 'AMI' ]
+    },
+    {
+        id: 27,
+        question: 'What Permissions options does an AMI have? A) Public Access, Owner only, Specific AWS Accounts B) Public Access, Owner only, Specific IAM users C) Public Access, Owner only, Specific Regions D) Public Access, Specific AWS Accounts, Specific IAM users',
+        answer: 'A) Public Access, Owner Only, Specific AWS Accounts',
+        options: [],
+        tags: ['Solution Architect', 'AMI' ]
     },
 ]
 

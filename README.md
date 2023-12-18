@@ -13,4 +13,8 @@ npm create vite@latest APP_NAME_HERE -- --template react
 ```
 
 ## How to run the application
+cd into the application directory and run the following command:
+```javascript
+npm install
 npm run dev
+```

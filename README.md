@@ -18,3 +18,6 @@ cd into the application directory and run the following command:
 npm install
 npm run dev
 ```
+
+## ASWS Amplify Deployment Location
+https://main.d24mh4rwpmvive.amplifyapp.com/

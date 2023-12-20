@@ -7,7 +7,7 @@ function App() {
      const [flashcards, setFlashcards] = useState(FLASHCARD_DATA)
   return (
     <>
-      <FlashcardInputForm /><br/>
+      {/* <FlashcardInputForm /><br/> */}
       <FlashcardList flashcards={flashcards} />
     </>
   );

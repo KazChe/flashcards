@@ -205,6 +205,13 @@ const FLASHCARD_DATA = [
         options: [],
         tags: ['Solution Architect', 'AMI' ]
     },
+    {
+        id: 28,
+        question: 'Methods to imporove API performance?',
+        answer: '<img src="./methods_improve_api_performance.png" />',
+        options: [],
+        tags: ['API', 'performance' ]
+    },
 ]
 
 export default FLASHCARD_DATA;

@@ -1,11 +1,11 @@
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; */
 
-body {
-  background-color: #FFFFFF;
-  margin: 25;
-}
+  body {
+    background-color: #FFFFFF;
+    margin: 25px;
+  } 
 
 .container {
   max-width: 900px;

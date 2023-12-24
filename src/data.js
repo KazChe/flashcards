@@ -237,7 +237,7 @@ const FLASHCARD_DATA = [
     {
         id: 28,
         question: 'Methods to imporove API performance?',
-        answer: '<img src="/methods_improve_api_performance.png" />',
+        answer: '<img witdth=200px height=250px src="/methods_improve_api_performance.png" />',
         options: [],
         tags: ['API', 'performance' ],
         category: 'API'

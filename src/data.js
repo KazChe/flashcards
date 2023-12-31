@@ -258,6 +258,14 @@ const FLASHCARD_DATA = [
         tags: ['Front End', 'virtual dom' ],
         category: 'Front End'
     },
+    {
+        id: 31,
+        question: 'What is retrieval-augmented generation RAG? and provide an example of retrievel-augment generation RAG',
+        answer: 'Consider a sports league that wants fans and the media to be able to use chat to access its data and answer questions about players, teams, the sport’s history and rules, and current stats and standings. A generalized LLM could answer questions about the history and rules or perhaps describe a particular team’s stadium. It wouldn’t be able to discuss last night’s game or provide current information about a particular athlete’s injury because the LLM wouldn’t have that information—and given that an LLM takes significant computing horsepower to retrain, it isn’t feasible to keep the model current. In addition to the large, fairly static LLM, the sports league owns or can access many other information sources, including databases, data warehouses, documents containing player bios, and news feeds that discuss each game in depth. RAG lets the generative AI ingest this information. Now, the chat can provide information that’s more timely, more contextually appropriate, and more accurate. Simply put, RAG helps LLMs give better answers. Retrieval-augmented generation (RAG) typically falls under the category of "hybrid models" in machine learning. It combines elements of both generative models and retrieval models to enhance performance. In the case of RAG, a generative language model (like a large language model, such as GPT) is combined with a retrieval component that can pull in information from external sources. So, to be more specific, RAG can be considered a hybrid approach that combines elements of generative models and retrieval models to improve the quality and relevance of generated responses.',
+        options: [],
+        tags: ['Machine Learning', '' ],
+        category: 'Front End'
+    },
 
 ]
 
